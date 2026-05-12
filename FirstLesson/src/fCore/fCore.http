@@ -1,0 +1,6 @@
+@fCore_HostAddress = http://localhost:5017
+
+GET {{fCore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
